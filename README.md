@@ -21,3 +21,7 @@
 [![Updates](https://pyup.io/repos/github/marcosranes/django_course/shield.svg)](https://pyup.io/repos/github/marcosranes/django_course/) [![Python 3](https://pyup.io/repos/github/marcosranes/django_course/python-3-shield.svg)](https://pyup.io/repos/github/marcosranes/django_course/)
 
 JUST TESTING JUST TESTING
+
+JUST TESTING JUST TESTING
+
+JUST TESTING JUST TESTING
